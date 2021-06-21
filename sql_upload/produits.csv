@@ -1,0 +1,99 @@
+Item Code	Item	Category_code
+2511	"""Wheat and products"""	3
+2807	"""Rice and products"""	3
+2513	"""Barley and products"""	3
+2514	"""Maize and products"""	3
+2515	"""Rye and products"""	3
+2516	"""Oats"""	3
+2517	"""Millet and products"""	3
+2518	"""Sorghum and products"""	3
+2520	"""Cereals, Other"""	3
+2532	"""Cassava and products"""	1
+2531	"""Potatoes and products"""	1
+2533	"""Sweet potatoes"""	1
+2535	"""Yams"""	1
+2534	"""Roots, Other"""	1
+2536	"""Sugar cane"""	1
+2537	"""Sugar beet"""	1
+2541	"""Sugar non-centrifugal"""	1
+2542	"""Sugar (Raw Equivalent)"""	1
+2543	"""Sweeteners, Other"""	1
+2745	"""Honey"""	1
+2546	"""Beans"""	1
+2547	"""Peas"""	1
+2549	"""Pulses, Other and products"""	1
+2551	"""Nuts and products"""	1
+2555	"""Soyabeans"""	1
+2552	"""Groundnuts"""	1
+2557	"""Sunflower seed"""	1
+2558	"""Rape and Mustardseed"""	1
+2559	"""Cottonseed"""	1
+2560	"""Coconuts - Incl Copra"""	1
+2561	"""Sesame seed"""	1
+2562	"""Palm kernels"""	1
+2563	"""Olives (including preserved)"""	1
+2570	"""Oilcrops, Other"""	1
+2571	"""Soyabean Oil"""	1
+2572	"""Groundnut Oil"""	1
+2573	"""Sunflowerseed Oil"""	1
+2574	"""Rape and Mustard Oil"""	1
+2575	"""Cottonseed Oil"""	1
+2576	"""Palmkernel Oil"""	1
+2577	"""Palm Oil"""	1
+2578	"""Coconut Oil"""	1
+2579	"""Sesameseed Oil"""	1
+2580	"""Olive Oil"""	1
+2581	"""Ricebran Oil"""	1
+2582	"""Maize Germ Oil"""	1
+2586	"""Oilcrops Oil, Other"""	1
+2601	"""Tomatoes and products"""	1
+2602	"""Onions"""	1
+2605	"""Vegetables, Other"""	1
+2611	"""Oranges, Mandarines"""	1
+2612	"""Lemons, Limes and products"""	1
+2613	"""Grapefruit and products"""	1
+2614	"""Citrus, Other"""	1
+2615	"""Bananas"""	1
+2616	"""Plantains"""	1
+2617	"""Apples and products"""	1
+2618	"""Pineapples and products"""	1
+2619	"""Dates"""	1
+2620	"""Grapes and products (excl wine)"""	1
+2625	"""Fruits, Other"""	1
+2630	"""Coffee and products"""	1
+2633	"""Cocoa Beans and products"""	1
+2635	"""Tea (including mate)"""	1
+2640	"""Pepper"""	1
+2641	"""Pimento"""	1
+2642	"""Cloves"""	1
+2645	"""Spices, Other"""	1
+2655	"""Wine"""	1
+2656	"""Beer"""	1
+2657	"""Beverages, Fermented"""	1
+2658	"""Beverages, Alcoholic"""	1
+2659	"""Alcohol, Non-Food"""	1
+2680	"""Infant food"""	1
+2899	"""Miscellaneous"""	1
+2731	"""Bovine Meat"""	2
+2732	"""Mutton & Goat Meat"""	2
+2733	"""Pigmeat"""	2
+2734	"""Poultry Meat"""	2
+2735	"""Meat, Other"""	2
+2736	"""Offals, Edible"""	2
+2740	"""Butter, Ghee"""	2
+2743	"""Cream"""	2
+2737	"""Fats, Animals, Raw"""	2
+2744	"""Eggs"""	2
+2848	"""Milk - Excluding Butter"""	2
+2761	"""Freshwater Fish"""	2
+2781	"""Fish, Body Oil"""	2
+2782	"""Fish, Liver Oil"""	2
+2762	"""Demersal Fish"""	2
+2763	"""Pelagic Fish"""	2
+2764	"""Marine Fish, Other"""	2
+2765	"""Crustaceans"""	2
+2766	"""Cephalopods"""	2
+2767	"""Molluscs, Other"""	2
+2769	"""Aquatic Animals, Others"""	2
+2775	"""Aquatic Plants"""	2
+2768	"""Meat, Aquatic Mammals"""	2
